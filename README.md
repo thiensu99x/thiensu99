@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-- 📫 How to reach me: [Facebook - @ThienSu](https://www.facebook.com/Hackingofficiall2) , [Youtube - @NTKhang03](https://youtube.com/channel/UCQ4kq2hqb1HGzn-RjIPDr6A)
+- 📫 How to reach me: [Facebook - @ThienSu](https://www.facebook.com/Hackingofficiall2) , [Youtube - @ThienSu](https://youtube.com/channel/UCQ4kq2hqb1HGzn-RjIPDr6A)
 
 [![GitHub iampawan](https://img.shields.io/github/followers/thiensu99?label=follow&style=social)](https://github.com/thiensu99)
 
