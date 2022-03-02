@@ -7,7 +7,7 @@
 <a href="https://github.com/thiensu99">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/hackingofficial">
+<a href="https://instagram.com/hackingofficiall2">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/hackingofficiall2">
@@ -33,4 +33,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiensu99&theme=blue-green" />
 </a>
 <a href="https://github.com/thiensu99">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=github_dark&line_height=27" alt="Pawan github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=github_dark&line_height=27" alt="Paan's github stats"/>
