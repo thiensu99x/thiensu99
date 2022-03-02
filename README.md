@@ -33,4 +33,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiensu99&theme=blue-green" />
 </a>
 <a href="https://github.com/thiensu99">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=github_dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=github_dark&line_height=27" alt="Pawan github stats"/>
