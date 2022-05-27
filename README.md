@@ -10,7 +10,7 @@
 <p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb7bff437f9b88330b766b04fe04ee4585a665ff5f747eec02d501daba3f920c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d74717475616e393926636f6c6f723d627269676874677265656e"><img src="https://camo.githubusercontent.com/fb7bff437f9b88330b766b04fe04ee4585a665ff5f747eec02d501daba3f920c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d74717475616e393926636f6c6f723d627269676874677265656e" alt="thiensu99" data-canonical-src="https://komarev.com/ghpvc/?username=thiensu99&color=brightgreen" style="max-width:100%;"></a>
 </p>
 
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/thiensu99/thiensu99/blob/master/giphy.gif"><img src="https://github.com/thiensu99/thiensu99/blob/master/giphy.gif" alt="giphy" style="max-width:100%;"></a> </p>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/thiensu99/thiensu99/blob/main/giphy.gif"><img src="https://github.com/thiensu99/thiensu99/blob/main/giphy.gif" alt="giphy" style="max-width:100%;"></a> </p>
 <hr><br>
 
 ## Info about me 📝
