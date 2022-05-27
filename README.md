@@ -1,4 +1,4 @@
-<h1 align="center">Heyy! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px" style="max-width:100%;"> Nice to see you. I'm Thiên Sứ
+<h1 align="center">Heyy! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px" style="max-width:100%;"> Nice to see you. I'm Thien Su
 <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:100%;"></h1>
 
 <div align="center">
@@ -14,7 +14,7 @@
 <hr><br>
 
 ## Info about me 📝
-- 🔭 I’m currently a Student
+- 🔭 I'm a programmer
 - 🌱 I’m self-taught in web development
 - 📫 How to reach me: thiensu12123@gmail.com
 - ⚡ Fun fact: I think I'm an interesting person
@@ -42,4 +42,4 @@
 <hr>
 
 <br>
-<h3 align="center">From Thiên Sứ with love <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.com/thiensu99/thiensu99/blob/main/meo.jpg">❤️</g-emoji> in VietNam <p align="center" <a target="_blank" rel="noopener noreferrer" href="https://github.com/thiensu99/thiensu99/blob/main/meo.jpg"><img src="https://github.com/thiensu99/thiensu99/blob/main/meo.jpg" alt="VietNam With Love" style="max-width:100%;"></a> </p> </h3>
+<h3 align="center">From Thien Su with love <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.com/thiensu99/thiensu99/blob/main/meo.jpg">❤️</g-emoji> in VietNam <p align="center" <a target="_blank" rel="noopener noreferrer" href="https://github.com/thiensu99/thiensu99/blob/main/meo.jpg"><img src="https://github.com/thiensu99/thiensu99/blob/main/meo.jpg" alt="VietNam With Love" style="max-width:100%;"></a> </p> </h3>
