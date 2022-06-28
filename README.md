@@ -23,10 +23,8 @@
 ## Connect with me 🤼‍♀️:
 <p lign="left"> &nbsp;&nbsp;&nbsp;&nbsp;&ensp;
 <a href="https://twitter.com/ThienSu99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiensu99" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16582042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16582042" height="30" width="40" /></a>
 <a href="https://fb.com/ThienSu99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiensu99" height="30" width="40" /></a>
 <a href="https://instagram.com/ThienSu99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuan.qt__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ThienSu99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiensu99" height="30" width="40" /></a>
 </p> <hr><br>
 
 ## Languages and Tools 🧐:
