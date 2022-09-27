@@ -29,7 +29,6 @@
 
 
 ## Github Stats 📈:
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=thiensu99&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiensu99&layout=compact" alt="thiensu99" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiensu99&layout=compact" style="max-width:100%;"></a> </p>
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=radical" alt="thiensu99" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=radical" style="max-width:100%;"></a></p> <hr><br>
 
 
