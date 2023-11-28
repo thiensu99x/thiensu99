@@ -22,16 +22,4 @@
 <a href="https://twitter.com/ThienSu99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiensu99x" height="30" width="40" /></a>
 <a href="https://fb.com/ThienSu99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiensu99x" height="30" width="40" /></a>
 <a href="https://instagram.com/ThienSu99x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiensu99x" height="30" width="40" /></a>
-</p> <hr><br>
-
-
-## Github Stats 📈:
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=thiensu99x&show_icons=true&theme=radical" alt="thiensu99" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thiensu99&show_icons=true&theme=radical" style="max-width:100%;"></a></p> <hr><br>
-
-
-## Support ☕:
-<a href="https://www.buymeacoffee.com/thiensu99" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thiensu99x"/></a> <br><br>
-<hr>
-
-<br>
-<h3 align="center">From Thien Su with love <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.com/thiensu99x/thiensu99x/blob/main/meo.jpg">❤️</g-emoji> in VietNam <p align="center" <a target="_blank" rel="noopener noreferrer" href="https://github.com/thiensu99x/thiensu99x/blob/main/meo.jpg"><img src="https://github.com/thiensu99x/thiensu99x/blob/main/meo.jpg" alt="VietNam With Love" style="max-width:100%;"></a> </p> </h3>
+</p>
